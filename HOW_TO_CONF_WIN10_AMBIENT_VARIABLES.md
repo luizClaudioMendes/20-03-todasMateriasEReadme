@@ -23,3 +23,5 @@ Após o término da instalação do Java, vamos configurar as variáveis do ambi
   6.1. Defina o valor dessa variável com o caminho da pasta Bin. No caso, pode-se utilizar a variável JAVA_HOME previamente definida.
 
 ;%JAVA_HOME%\bin
+
+teste
