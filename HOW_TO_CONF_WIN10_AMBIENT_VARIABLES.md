@@ -24,4 +24,4 @@ Após o término da instalação do Java, vamos configurar as variáveis do ambi
 
 ;%JAVA_HOME%\bin
 
-teste
+ 
